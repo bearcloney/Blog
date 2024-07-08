@@ -167,5 +167,5 @@
     确保工人基本生活保证  
     工人也应利用工会组织，社会舆论，争取更好的工作条件
 
-‍
+‍<!-- ##{"script":"<script src='https://blog.meekdai.com/assets/GmeekTOC.js'></script>"}## -->
 
