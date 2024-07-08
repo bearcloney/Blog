@@ -1,4 +1,4 @@
-# 看李老师看emo了
+# 序
 
 > 工资越来越低，物价越来越高，工作岗位越来越少，裁员降薪，屡见不鲜。现在经济怎么了  
 > 我不能理解，老百姓穷到要变卖资产，地方政府也财政赤字要中央补贴，钱都去哪里了
@@ -167,5 +167,4 @@
     确保工人基本生活保证  
     工人也应利用工会组织，社会舆论，争取更好的工作条件
 
-‍<!-- ##{"script":"<script src='https://blog.meekdai.com/assets/GmeekTOC.js'></script>"}## -->
-
+<!-- ##{"script":"<script src='https://blog.meekdai.com/assets/GmeekTOC.js'></script>"}## -->
