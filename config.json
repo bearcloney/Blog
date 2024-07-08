@@ -1,8 +1,9 @@
 {
     "title":"贝的笔记",
     "subTitle":"记录些乱七八糟的想法",
+    "homeUrl":"https://bearcloney.eu.org/Blog",
     "avatarUrl":"https://raw.githubusercontent.com/bearcloney/bearcloney.github.io/main/home/logo.jpg",
-    "GMEEK_VERSION":"last"
     "startSite":"02/16/2015",
     "showPostSource":1,
+    "GMEEK_VERSION":"last"
 }
